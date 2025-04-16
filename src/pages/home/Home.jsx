@@ -11,7 +11,7 @@ export const Home = () => {
       <Navbar />
       <div className={styles.hero}>
         <div className={styles.herotext}>
-          <h2>Want anything to be easy with LaslesVPN.</h2>
+          <h2>Want anything to be easy with LaslesVPN by Sevinch.</h2>
           <p>
             Provide a network for all your needs with ease and fun using
             LaslesVPN discover interesting features from us.
