@@ -25,7 +25,7 @@ function App() {
       <Routes>
         {/* Ummumiy route */}
         <Route path="/" element={<Home />} />
-
+skdfbgljsfkdgbk 
         {/*Authentifikatsiyadan o'tmaganlar uchun ko'rinadigan routelar  */}
         <Route path="/auth" element={<PublicRoute isAuthenticated={isAuthenticated}/>}>
           <Route path="login" element={<Login />} />
