@@ -1,0 +1,29 @@
+.container {
+    width: 90%;
+    margin: 0px auto;
+}
+
+.hero {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.herotext {
+    width: 50%;
+
+    h2 {
+        color: #0B132A;
+        font-size: 75px;
+    }
+    p {
+        margin: 20px 0px;
+        font-size: 20px;
+    }
+}
+
+img {
+    width: 55%;
+}

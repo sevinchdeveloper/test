@@ -1,0 +1,21 @@
+.button {
+    padding: 15px 20px;
+    width: 160px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.primary {
+    background-color: rgb(23, 210, 23);
+}
+
+.secondary {
+    background-color: rgb(7, 84, 227);
+}
+
+.danger {
+    background-color: rgb(234, 11, 11);
+}
